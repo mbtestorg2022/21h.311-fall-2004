@@ -32,14 +32,75 @@ Subject Requirements
 
 Attendance and class participation is mandatory. There will be a cumulative final exam at the end of the semester. In addition, students will take a map quiz, write six two-page papers, and one eight to ten-page paper due in session 25. I will hand out instructions for these assignments later in the term. Each assignment will be weighted as follows in the calculation of the final grade, although these calculations will also take into account improved performance during the course of the semester:
 
-| ACTIVITIES | POINTS |
-| --- | --- |
-| Class Participation | 30 points |
-| Two-Page Papers (six papers total) | 10 points each |
-| Map Quiz | 10 points |
-| Long Paper | 40 points |
-| Final Exam | 60 points |
-| Total | 200 points 
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+ACTIVITIES
+{{< thclose >}}
+{{< thopen >}}
+POINTS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Class Participation
+{{< tdclose >}}
+{{< tdopen >}}
+30 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Two-Page Papers (six papers total)
+{{< tdclose >}}
+{{< tdopen >}}
+10 points each
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Map Quiz
+{{< tdclose >}}
+{{< tdopen >}}
+10 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Long Paper
+{{< tdclose >}}
+{{< tdopen >}}
+40 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Final Exam
+{{< tdclose >}}
+{{< tdopen >}}
+60 points
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+Total
+{{< tdclose >}}
+{{< tdopen >}}
+200 points
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
 
 Statement on Cheating and Plagiarism
 ------------------------------------

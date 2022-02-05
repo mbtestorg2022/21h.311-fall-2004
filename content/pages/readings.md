@@ -25,31 +25,361 @@ Davis, N. Z. _The Return of Martin Guerre_. Cambridge, MA: Harvard University Pr
 {{< anchor "Class_Session" >}}{{< /anchor >}}Readings by Class Session
 ----------------------------------------------------------------------
 
-| SES # | TOPICS | READINGS |
-| --- | --- | --- |
-| 1 | Introduction: The History of Renaissance History | &nbsp; |
-| 2 | Geography, Demography, Global Trade, 1300-1600 | Leroy-Ladurie. _Montaillou._ pp. 3-135. |
-| 3 | The World of the Peasantry ca. 1300 | Leroy-Ladurie. _Montaillou._ pp. 139-230. |
-| 4 | The Black Death | Tuchman, Barbara. "'This is the end of the world': The Black Death." In _A Distant Mirror: The Calamitous Fourteenth Century_. New York, NY: Ballantine Books, 1987. pp. 92-125.  {{< br >}}  {{< br >}}Boccaccio. _Introduction to The Decameron._ New York, NY: Signet Classics, 2002. pp. 49-68. |
-| 5 | The Discarded Image | RR. pp. 580-3. |
-| 6 | The Beginnings of Humanism in Fourteenth-Century Italy | RG. pp. 1-10, 77-90.  {{< br >}}  {{< br >}}RR. pp. 120-30.  {{< br >}}  {{< br >}}Petrarch. _The Secret._ pp. 1-70, 149-58. |
-| 7 | Petrarch | Petrarch. _The Secret_. pp. 70-148. |
-| 8 | Civic Humanism in Early Fifteenth-Century Italy and Beyond | Kohl, Benjamin G., and Ronald G. Witt, eds. "Introduction and Bruni's Panegyric to the City of Florence." In _The Earthly Republic: Italian Humanists on Government and Society_. Philadelphia, PA: University of Pennsylvania Press, 1978, pp. 121-175. ISBN: 9780812277524.  {{< br >}}  {{< br >}}RR. pp. 476-9. |
-| 9 | Art and Culture in Fifteenth-Century Italy | RG. pp. 90-114.  {{< br >}}  {{< br >}}RR. pp. 140-5, 527-40.  {{< br >}}  {{< br >}}Simons, Pat. "Women in Frames: The Gaze, the Eye, the Profile in Renaissance Portraiture." _History Workshop_ 25 (1988): 38-57. |
-| 10 | A Visit to the Fogg Art Museum, Harvard University | Baxandall, Michael. _Painting and Experience in Fifteenth-Century Italy._ 2nd ed_._ New York, NY: Oxford University Press, 1988, pp. 1-27. ISBN: 9780192821447. |
-| 11 | Burgundy and Late Medieval Politics in the North | RR. pp. 185-202. |
-| 12 | The New Monarchies and The Invasion of Italy | RG. pp. 110-145.  {{< br >}}  {{< br >}}RR. pp. 279-94. |
-| 13 | Politics Reinvented | Machiavelli. _The Prince._ all. |
-| 14 | Christian Humanism in the North | RR. pp. 80-6, 401-8, 717-21.  {{< br >}}  {{< br >}}Sowards, J. Kelley, ed. _The Julius Exclusus of Erasmus._ Bloomington, IN: Indiana University Press, 1968, pp. 45-141. |
-| 15 | Martin Luther and the Protestant Challenge | RG. pp. 146-77.  {{< br >}}  {{< br >}}RR. pp. 677-703. |
-| 16 | The Age of Reformations | RG. pp. 178-202.  {{< br >}}  {{< br >}}RR. pp. 234-41.  {{< br >}}  {{< br >}}Hillerbrand, Hans, ed. "Radical Reform Movements." In _The Reformation._ 6th ed. Grand Rapids, MI: Baker Book House, 1978, pp. 214-38. |
-| 17 | Sixteenth-Century Peasants I | Davis. _The Return of Martin Guerre_. pp. 1-61. |
-| 18 | Sixteenth-Century Peasants II | Davis. _The Return of Martin Guerre_. pp. 62-125. |
-| 19 | 1543: The Copernican Revolution | RG. pp. 18-26.  {{< br >}}  {{< br >}}RR. pp. 584-611. |
-| 20 | 1543: The Vesalian Revolution | RR. pp. 552-73. |
-| 21 | Individual Consultations with Instructor | &nbsp; |
-| 22 | Review | &nbsp; |
-| 23 | Portuguese Expansion | RG. pp. 32-38. |
-| 24 | Spanish Exploration | RG. pp. 38-44.  {{< br >}}  {{< br >}}RR. pp. 146-57. |
-| 25 | Spanish Conquest | Burkholder, Mark A., and Lyman L. Johnson. _Colonial Latin America._ 4th ed., New York, NY: Oxford University Press, 2000, pp. 42-59. ISBN: 9780195137026.  {{< br >}}  {{< br >}}Schwartz, Stuart B., ed. "The Siege and Fall of Tenochtitlan." In _Victors and Vanquished: Spanish and Nahua Views of the Conquest of Mexico._ Boston, MA: Bedford/St. Martins, 1999, pp. 182-213. ISBN: 9780312154080. |
-| 26 | Conclusion: The Future of the Renaissance |
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+SES #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+READINGS
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction: The History of Renaissance History
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Geography, Demography, Global Trade, 1300-1600
+{{< tdclose >}}
+{{< tdopen >}}
+Leroy-Ladurie. _Montaillou._ pp. 3-135.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+The World of the Peasantry ca. 1300
+{{< tdclose >}}
+{{< tdopen >}}
+Leroy-Ladurie. _Montaillou._ pp. 139-230.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+The Black Death
+{{< tdclose >}}
+{{< tdopen >}}
+Tuchman, Barbara. "'This is the end of the world': The Black Death." In _A Distant Mirror: The Calamitous Fourteenth Century_. New York, NY: Ballantine Books, 1987. pp. 92-125.  
+  
+Boccaccio. _Introduction to The Decameron._ New York, NY: Signet Classics, 2002. pp. 49-68.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+The Discarded Image
+{{< tdclose >}}
+{{< tdopen >}}
+RR. pp. 580-3.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+The Beginnings of Humanism in Fourteenth-Century Italy
+{{< tdclose >}}
+{{< tdopen >}}
+RG. pp. 1-10, 77-90.  
+  
+RR. pp. 120-30.  
+  
+Petrarch. _The Secret._ pp. 1-70, 149-58.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Petrarch
+{{< tdclose >}}
+{{< tdopen >}}
+Petrarch. _The Secret_. pp. 70-148.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Civic Humanism in Early Fifteenth-Century Italy and Beyond
+{{< tdclose >}}
+{{< tdopen >}}
+Kohl, Benjamin G., and Ronald G. Witt, eds. "Introduction and Bruni's Panegyric to the City of Florence." In _The Earthly Republic: Italian Humanists on Government and Society_. Philadelphia, PA: University of Pennsylvania Press, 1978, pp. 121-175. ISBN: 9780812277524.  
+  
+RR. pp. 476-9.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Art and Culture in Fifteenth-Century Italy
+{{< tdclose >}}
+{{< tdopen >}}
+RG. pp. 90-114.  
+  
+RR. pp. 140-5, 527-40.  
+  
+Simons, Pat. "Women in Frames: The Gaze, the Eye, the Profile in Renaissance Portraiture." _History Workshop_ 25 (1988): 38-57.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+A Visit to the Fogg Art Museum, Harvard University
+{{< tdclose >}}
+{{< tdopen >}}
+Baxandall, Michael. _Painting and Experience in Fifteenth-Century Italy._ 2nd ed_._ New York, NY: Oxford University Press, 1988, pp. 1-27. ISBN: 9780192821447.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Burgundy and Late Medieval Politics in the North
+{{< tdclose >}}
+{{< tdopen >}}
+RR. pp. 185-202.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+The New Monarchies and The Invasion of Italy
+{{< tdclose >}}
+{{< tdopen >}}
+RG. pp. 110-145.  
+  
+RR. pp. 279-94.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+Politics Reinvented
+{{< tdclose >}}
+{{< tdopen >}}
+Machiavelli. _The Prince._ all.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+14
+{{< tdclose >}}
+{{< tdopen >}}
+Christian Humanism in the North
+{{< tdclose >}}
+{{< tdopen >}}
+RR. pp. 80-6, 401-8, 717-21.  
+  
+Sowards, J. Kelley, ed. _The Julius Exclusus of Erasmus._ Bloomington, IN: Indiana University Press, 1968, pp. 45-141.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+15
+{{< tdclose >}}
+{{< tdopen >}}
+Martin Luther and the Protestant Challenge
+{{< tdclose >}}
+{{< tdopen >}}
+RG. pp. 146-77.  
+  
+RR. pp. 677-703.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+16
+{{< tdclose >}}
+{{< tdopen >}}
+The Age of Reformations
+{{< tdclose >}}
+{{< tdopen >}}
+RG. pp. 178-202.  
+  
+RR. pp. 234-41.  
+  
+Hillerbrand, Hans, ed. "Radical Reform Movements." In _The Reformation._ 6th ed. Grand Rapids, MI: Baker Book House, 1978, pp. 214-38.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+17
+{{< tdclose >}}
+{{< tdopen >}}
+Sixteenth-Century Peasants I
+{{< tdclose >}}
+{{< tdopen >}}
+Davis. _The Return of Martin Guerre_. pp. 1-61.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+18
+{{< tdclose >}}
+{{< tdopen >}}
+Sixteenth-Century Peasants II
+{{< tdclose >}}
+{{< tdopen >}}
+Davis. _The Return of Martin Guerre_. pp. 62-125.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+19
+{{< tdclose >}}
+{{< tdopen >}}
+1543: The Copernican Revolution
+{{< tdclose >}}
+{{< tdopen >}}
+RG. pp. 18-26.  
+  
+RR. pp. 584-611.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+20
+{{< tdclose >}}
+{{< tdopen >}}
+1543: The Vesalian Revolution
+{{< tdclose >}}
+{{< tdopen >}}
+RR. pp. 552-73.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+21
+{{< tdclose >}}
+{{< tdopen >}}
+Individual Consultations with Instructor
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+22
+{{< tdclose >}}
+{{< tdopen >}}
+Review
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+23
+{{< tdclose >}}
+{{< tdopen >}}
+Portuguese Expansion
+{{< tdclose >}}
+{{< tdopen >}}
+RG. pp. 32-38.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+24
+{{< tdclose >}}
+{{< tdopen >}}
+Spanish Exploration
+{{< tdclose >}}
+{{< tdopen >}}
+RG. pp. 38-44.  
+  
+RR. pp. 146-57.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+25
+{{< tdclose >}}
+{{< tdopen >}}
+Spanish Conquest
+{{< tdclose >}}
+{{< tdopen >}}
+Burkholder, Mark A., and Lyman L. Johnson. _Colonial Latin America._ 4th ed., New York, NY: Oxford University Press, 2000, pp. 42-59. ISBN: 9780195137026.  
+  
+Schwartz, Stuart B., ed. "The Siege and Fall of Tenochtitlan." In _Victors and Vanquished: Spanish and Nahua Views of the Conquest of Mexico._ Boston, MA: Bedford/St. Martins, 1999, pp. 182-213. ISBN: 9780312154080.
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+26
+{{< tdclose >}}
+{{< tdopen >}}
+Conclusion: The Future of the Renaissance
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
