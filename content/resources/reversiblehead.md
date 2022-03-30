@@ -9,6 +9,7 @@ image_metadata:
   caption: ''
   credit: ''
   image-alt: ''
+parent_uid: e84bbdf7-a3f7-2df4-2601-cb401ce23eb3
 resourcetype: Image
 title: reversiblehead.jpg
 uid: 52052976-c24d-0674-d4cf-e5b4baf7f61d
